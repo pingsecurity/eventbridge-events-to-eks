@@ -23,6 +23,6 @@ s3transfer==0.3.4
 six==1.15.0
 soupsieve==2.2
 typing_extensions==4.0.1
-urllib3==1.26.5
+urllib3==1.26.18
 uuid==1.30
 Werkzeug==2.0.3
